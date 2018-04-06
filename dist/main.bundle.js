@@ -20,7 +20,7 @@ webpackEmptyAsyncContext.id = "./src/$$_lazy_route_resource lazy recursive";
 /***/ "./src/app/app.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "\n<div id=\"countdown\">\n<h1>#DL2018 </h1><count-down [text]=\"text\" units=\"Days | Hours | Minutes | Seconds\" end=\"September 13, 2018\"></count-down>\n</div> "
+module.exports = "\n<div id=\"countdown\">\n<h1>DL2018 </h1><count-down [text]=\"text\" units=\"Days | Hours | Minutes | Seconds\" end=\"September 13, 2018\"></count-down>\n</div> "
 
 /***/ }),
 
